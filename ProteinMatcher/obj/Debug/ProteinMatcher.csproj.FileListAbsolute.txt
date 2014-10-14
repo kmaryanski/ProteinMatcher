@@ -1,0 +1,9 @@
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\bin\Debug\ProteinMatcher.exe.config
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\bin\Debug\ProteinMatcher.exe
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\bin\Debug\ProteinMatcher.pdb
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\obj\Debug\ProteinMatcher.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\obj\Debug\ProteinMatcher.Properties.Resources.resources
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\obj\Debug\ProteinMatcher.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\obj\Debug\ProteinMatcher.exe
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\obj\Debug\ProteinMatcher.pdb
+C:\Users\Krzysztof\Dropbox\Uj\projekt indywidualny\ProteinMatcher\ProteinMatcher\obj\Debug\ProteinMatcher.MainWindow.resources
